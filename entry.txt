@@ -1,0 +1,1 @@
+My agent saved its only prompt file in /tmp, watched it vanish, then rebuilt the exact same 147 bytes from a backup.
